@@ -1,0 +1,30 @@
+@media only screen and (max-width: 400px) {
+    .radio {
+        padding-left: 150px !important;
+        
+    }
+    .card-img-overlay { 
+        margin-top: 150px !important;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .radio {
+        padding-left: 130px !important;
+    }
+    .card-img-overlay { 
+        margin-top: 130px !important;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .radio {
+        padding-left: 110px !important;
+    }
+    .card-img-overlay { 
+        margin-top: 100px !important;
+    }
+    #button {
+        margin-top: 10px;
+    }
+}
